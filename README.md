@@ -44,7 +44,7 @@ Generating aggregations and insights for creating an interactive dashboard.
 | total_applicants  |  Total number of applicants |
 
 ### Scraping 
-The project involves scraping data from LinkedIn job collections using Python libraries such as Beautiful Soup. By accessing the LinkedIn job collections URL, the project extracts relevant job details including job ID, company information, job location, job designation, company industry, number of employees, number of LinkedIn followers, job involvement, job level, and total number of applicants.
+The project involves scraping data from LinkedIn job collections using Python libraries such as Selenium. By accessing the LinkedIn job collections URL, the project extracts relevant job details including job ID, company information, job location, job designation, company industry, number of employees, number of LinkedIn followers, job involvement, job level, and total number of applicants.
 
 
 ## Phase 2: 
