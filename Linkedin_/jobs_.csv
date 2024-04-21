@@ -1,0 +1,401 @@
+,job_id,Company,Designation,Location,company_id,details_id
+0,jb_1,Fifth Column,Architect / Interior Designer,"Vadodara, Gujarat, India (On-site)",cp_1,dt_1
+1,jb_2,RADIANT,Economic Development Officer,"Srinagar, Jammu & Kashmir, India (On-site)",cp_2,dt_2
+2,jb_3,Jio,Product Manager - Cyber Security || Mumbai/Bangalore,"Navi Mumbai, Maharashtra, India (On-site)",cp_3,dt_3
+3,jb_4,Hyqoo,Data Analyst,India (Remote),cp_4,dt_4
+4,jb_5,Dr. Reddy's Laboratories,Area Business Manager ( individual Role),"Chennai, Tamil Nadu, India (On-site)",cp_5,dt_5
+5,jb_6,DMart - Avenue Supermarts Ltd,DGM- Business Development/ Property Acqusition,"Mumbai, Maharashtra, India (On-site)",cp_6,dt_6
+6,jb_7,Ipca Laboratories Limited,Asst Manager EHS,"Mahad, Maharashtra, India (On-site)",cp_7,dt_7
+7,jb_8,Birlasoft,SAP CPI CONSULTANT,"Pune, Maharashtra, India (Hybrid)",cp_8,dt_8
+8,jb_9,Nagarro,Javascript Fullstack Developer,"Gurugram, Haryana, India (Hybrid)",cp_9,dt_9
+9,jb_10,FNP,Head Corporate Sales (Corporate Gifting),"Gurugram, Haryana, India (On-site)",cp_10,dt_10
+10,jb_11,NationsBenefits India,Azure SQL Developer,"Hyderabad, Telangana, India (On-site)",cp_11,dt_11
+11,jb_12,Birlasoft,Sr Lead Consultant OIC,"Mulshi, Maharashtra, India (On-site)",cp_8,dt_12
+12,jb_13,Birlasoft,JDE CNC Consultant,"Mumbai, Maharashtra, India (Hybrid)",cp_8,dt_13
+13,jb_14,Jio,Java Technical Lead,"Bengaluru, Karnataka, India (On-site)",cp_3,dt_14
+14,jb_15,BlackRock,"Vice President, Data Workflow Engineering",Mumbai Metropolitan Region (Hybrid),cp_12,dt_15
+15,jb_16,Delta Air Lines,Engineering Leader [T500-11077],"Bengaluru, Karnataka, India (On-site)",cp_13,dt_16
+16,jb_17,Infosys,Python - Network Automation and CPE Tester,"Bengaluru East, Karnataka, India (On-site)",cp_14,dt_17
+17,jb_18,IndusInd Bank,Lead – Data Scientist,"Gurugram, Haryana, India (On-site)",cp_15,dt_18
+18,jb_19,Bureau Veritas Group,Internal ITSM Process Auditor (ITSM/ISO 20K),"Noida, Uttar Pradesh, India (Hybrid)",cp_16,dt_19
+19,jb_20,Qatar Airways,Regional Manager Indian Subcontinent,"Mumbai, Maharashtra, India (On-site)",cp_17,dt_20
+20,jb_21,Marsh McLennan,SQL Database Administrator,"Noida, Uttar Pradesh, India (Hybrid)",cp_18,dt_21
+21,jb_22,Infosys BPM,Walk-in For Freshers - Data Skill at Pune on 30th March,"Pune, Maharashtra, India (On-site)",cp_19,dt_22
+22,jb_23,LTIMindtree,Immediate Hiring for SQL DBA,"Delhi, India (On-site)",cp_20,dt_23
+23,jb_24,Infosys,Java Developer,"Bengaluru East, Karnataka, India",cp_14,dt_24
+24,jb_25,NAB,AVP || Risk & Compliance,"Gurugram, Haryana, India (On-site)",cp_21,dt_25
+25,jb_26,NAB,AVP || Risk & Compliance,"Gurugram, Haryana, India (On-site)",cp_21,dt_26
+26,jb_27,Marsh McLennan,SQL Database Administrator,"Gurugram, Haryana, India (Hybrid)",cp_18,dt_27
+27,jb_28,Infogain,Data Engineer,"Noida, Uttar Pradesh, India (Hybrid)",cp_22,dt_28
+28,jb_29,Tata Consultancy Services,Storage Administrator,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_29
+29,jb_30,Asian Paints,Assistant Manager - Services,"Kochi, Kerala, India (On-site)",cp_24,dt_30
+30,jb_31,BlackRock,"Director, Regulatory Controls",Mumbai Metropolitan Region (Hybrid),cp_12,dt_31
+31,jb_32,Birlasoft,Sr Technical Lead,Greater Bengaluru Area (On-site),cp_8,dt_32
+32,jb_33,Sony India Software Centre,HANA ABAP Interface Technical Architect,"Bengaluru, Karnataka, India (On-site)",cp_25,dt_33
+33,jb_34,Rakuten India,Senior Director - Database Operations,"Bangalore Urban, Karnataka, India (Hybrid)",cp_26,dt_34
+34,jb_35,EaseMyTrip.com,Dotnet Developer,"Gurugram, Haryana, India (On-site)",cp_27,dt_35
+35,jb_36,Hitachi Astemo,Process Engineer,"Jalgaon, Maharashtra, India (On-site)",cp_28,dt_36
+36,jb_37,Grant Thornton Bharat LLP,AM - Valuations,Greater Bengaluru Area (Hybrid),cp_29,dt_37
+37,jb_38,CARS24,Product Designer,"Gurugram, Haryana, India (On-site)",cp_30,dt_38
+38,jb_39,Gameskraft,Assistant Manager - CRM,"Bengaluru, Karnataka, India (On-site)",cp_31,dt_39
+39,jb_40,HDFC securities,Head Internal Audit,"Mumbai, Maharashtra, India (On-site)",cp_32,dt_40
+40,jb_41,Pidilite Industries Limited,Product Specialist,"Mumbai, Maharashtra, India (On-site)",cp_33,dt_41
+41,jb_42,Tata Consultancy Services,Middleware Admin - Walk in Drive at INDORE,"Indore, Madhya Pradesh, India (On-site)",cp_23,dt_42
+42,jb_43,PcsInfinity Pvt. Ltd.,SQL Database Administrator,"Noida, Uttar Pradesh, India (Hybrid)",cp_34,dt_43
+43,jb_44,Tata Communications Transformation Services (TCTS),NOC Shift Lead,"Chennai, Tamil Nadu, India (Hybrid)",cp_35,dt_44
+44,jb_45,Happiest Minds Technologies,Head of Business Operations,"Bangalore Urban, Karnataka, India (On-site)",cp_36,dt_45
+45,jb_46,BT Group,Associate Engineer,"Bengaluru, Karnataka, India (Hybrid)",cp_37,dt_46
+46,jb_47,HTC Global Services,Cloud Engineer,"Bengaluru, Karnataka, India (On-site)",cp_38,dt_47
+47,jb_48,Marsh McLennan,SQL Database Administrator,"Pune, Maharashtra, India (Hybrid)",cp_18,dt_48
+48,jb_49,Panamax Infotech,Technical Support Engineer,"Ahmedabad, Gujarat, India (On-site)",cp_39,dt_49
+49,jb_50,Marsh McLennan,SQL Database Administrator,"Mumbai, Maharashtra, India (Hybrid)",cp_18,dt_50
+50,jb_51,Datamatics,Sales Director,"Mumbai, Maharashtra, India (On-site)",cp_40,dt_51
+51,jb_52,KPIT,Product Owner,"Bangalore Urban, Karnataka, India (On-site)",cp_41,dt_52
+52,jb_53,Iron Mountain,Junior Associate,"Bengaluru East, Karnataka, India (On-site)",cp_42,dt_53
+53,jb_54,Tata Consultancy Services,Salesforce Consultant,"Hyderabad, Telangana, India (On-site)",cp_23,dt_54
+54,jb_55,Insight Global,Automation Engineer,"Bengaluru, Karnataka, India (On-site)",cp_43,dt_55
+55,jb_56,WNS,Associate- Ops,"Gurugram, Haryana, India (On-site)",cp_44,dt_56
+56,jb_57,LTIMindtree,Core Java,"Hyderabad, Telangana, India (Hybrid)",cp_20,dt_57
+57,jb_58,Careernet,IT Business Analyst,"Bengaluru, Karnataka, India (On-site)",cp_45,dt_58
+58,jb_59,iLink Digital,Azure Data Engineer,"Chennai, Tamil Nadu, India (On-site)",cp_46,dt_59
+59,jb_60,Wipro,Business Analyst,"Bengaluru, Karnataka, India (On-site)",cp_47,dt_60
+60,jb_61,Morgan Stanley,Untitled,"Bangalore Urban, Karnataka, India",cp_48,dt_61
+61,jb_62,PUMA Group,Junior Product Line Manager,"Bengaluru, Karnataka, India (On-site)",cp_49,dt_62
+62,jb_63,Alp Consulting Ltd.,SQL DBA,"Bengaluru, Karnataka, India (Hybrid)",cp_50,dt_63
+63,jb_64,Oracle,Oracle L1 DBA,"Mumbai, Maharashtra, India (On-site)",cp_51,dt_64
+64,jb_65,Truemeds India,Android Developer,"Mumbai, Maharashtra, India (On-site)",cp_52,dt_65
+65,jb_66,Atos,APPLICATION DEVELOPER,"Haveli, Maharashtra, India (Hybrid)",cp_53,dt_66
+66,jb_67,Mastek,Data Engineer,Greater Chennai Area (Hybrid),cp_54,dt_67
+67,jb_68,Genpact,Executive,"Gurugram, Haryana, India (On-site)",cp_55,dt_68
+68,jb_69,HARMAN International,ReactJS,"Mulshi, Maharashtra, India",cp_56,dt_69
+69,jb_70,LTIMindtree,Microsoft Office 365,"Bengaluru, Karnataka, India (Hybrid)",cp_20,dt_70
+70,jb_71,EarnYoung,Quality Analyst,"Mumbai, Maharashtra, India (On-site)",cp_57,dt_71
+71,jb_72,Deloitte,Hiring for Data Privacy,"Gurugram, Haryana, India (On-site)",cp_58,dt_72
+72,jb_73,Policybazaar.com,Senior Business Development Manager,"Gurugram, Haryana, India (On-site)",cp_59,dt_73
+73,jb_74,Tata Consultancy Services,TCS is hiring for Application Packaging_Indore,"Indore, Madhya Pradesh, India (On-site)",cp_23,dt_74
+74,jb_75,Tata Elxsi,C Linux Kernel Yocto Developer,"Bengaluru, Karnataka, India (Hybrid)",cp_60,dt_75
+75,jb_76,IndusInd Bank,Technical Lead - Spring Boot,"Mumbai, Maharashtra, India (On-site)",cp_15,dt_76
+76,jb_77,Tata Consultancy Services,Azure Data Engineer,"Hyderabad, Telangana, India (On-site)",cp_23,dt_77
+77,jb_78,Tata Consultancy Services,ServiceNow,"Hyderabad, Telangana, India (On-site)",cp_23,dt_78
+78,jb_79,Saint-Gobain Research India,Research Engineer,"Chennai, Tamil Nadu, India (On-site)",cp_61,dt_79
+79,jb_80,Infosys,AWS DevOps and Kafka Developer,"Bengaluru East, Karnataka, India (Hybrid)",cp_14,dt_80
+80,jb_81,Omnicom Media Group India,Business Director Programmatic,"Gurugram, Haryana, India (On-site)",cp_62,dt_81
+81,jb_82,"Georgia IT, Inc.",Java Full stack Developer,"Bengaluru, Karnataka, India (Hybrid)",cp_63,dt_82
+82,jb_83,Hexaware Technologies,DC Engineer,"Hyderabad, Telangana, India (Hybrid)",cp_64,dt_83
+83,jb_84,Tata Consultancy Services,Storage Admin,"Hyderabad, Telangana, India (On-site)",cp_23,dt_84
+84,jb_85,Infosys BPM,Hiring freshers for Insurance admin roles,"Mangaluru, Karnataka, India (On-site)",cp_19,dt_85
+85,jb_86,Allianz Partners,Assistant Cordinator,"Gurgaon, Haryana, India (On-site)",cp_65,dt_86
+86,jb_87,BlackRock,Director and Head of Finance Data Strategy and Process Transformation,"Gurgaon, Haryana, India (Hybrid)",cp_12,dt_87
+87,jb_88,NTT Ltd.,Service Desk Associate,"Bengaluru, Karnataka, India (Hybrid)",cp_66,dt_88
+88,jb_89,Birlasoft,Principal Consultant,"Hyderabad, Telangana, India (On-site)",cp_8,dt_89
+89,jb_90,Redrob by McKinley Rice,Windows System Administrator,"Thane, Maharashtra, India (On-site)",cp_67,dt_90
+90,jb_91,LTIMindtree,Service Desk Analyst,"Hyderabad, Telangana, India (On-site)",cp_20,dt_91
+91,jb_92,Hitachi Energy,Management Trainee,"Vadodara, Gujarat, India (On-site)",cp_68,dt_92
+92,jb_93,Birlasoft,SAP PROJECT MANAGER(BW),Greater Bengaluru Area (On-site),cp_8,dt_93
+93,jb_94,LTIMindtree,Vulnerability Management+ Qualys,"Bengaluru, Karnataka, India (On-site)",cp_20,dt_94
+94,jb_95,Reliance Industries Limited,Executive Materials mgt -A ( 81295895 ),"Silvassa, Daman and Diu, India (On-site)",cp_69,dt_95
+95,jb_96,Roku,Senior Site Reliability Engineer,"Bengaluru, Karnataka, India (On-site)",cp_70,dt_96
+96,jb_97,LTIMindtree,Full Stack Engineer,"Mumbai, Maharashtra, India (On-site)",cp_20,dt_97
+97,jb_98,Kotak Mutual Fund,Deputy Manager Contact Center,Mumbai Metropolitan Region (On-site),cp_71,dt_98
+98,jb_99,BluSmart,HSE Executive,"Gurugram, Haryana, India (On-site)",cp_72,dt_99
+99,jb_100,Tata Consultancy Services,Azure data engineer,"Pune, Maharashtra, India (On-site)",cp_23,dt_100
+100,jb_101,Quess IT Staffing,Software Engineer,"Hyderabad, Telangana, India (Hybrid)",cp_73,dt_101
+101,jb_102,Genpact,Workday Technical Consultant,"Bengaluru, Karnataka, India (Hybrid)",cp_55,dt_102
+102,jb_103,Marsh McLennan,Oracle Database Administrator,"Noida, Uttar Pradesh, India (Hybrid)",cp_18,dt_103
+103,jb_104,CARS24,Lead Product Designer,"Gurugram, Haryana, India (On-site)",cp_30,dt_104
+104,jb_105,S&P Global,QA Analyst,"Hyderabad, Telangana, India (On-site)",cp_74,dt_105
+105,jb_106,Epsilon India,Operations Analyst 1,"Bengaluru, Karnataka, India (On-site)",cp_75,dt_106
+106,jb_107,HARMAN India,Senior Digital Front-End Design Engineer,"Bengaluru, Karnataka, India (On-site)",cp_76,dt_107
+107,jb_108,Aspire Higher HR Solutions,Full Stack Developer,"Mohali district, India (On-site)",cp_77,dt_108
+108,jb_109,Invest India,Junior Specialist - NSWS,"New Delhi, Delhi, India (On-site)",cp_78,dt_109
+109,jb_110,dentsu,Database Administrator,Mumbai Metropolitan Region,cp_79,dt_110
+110,jb_111,Google,"Application Engineer, ASCII","Bengaluru, Karnataka, India (On-site)",cp_80,dt_111
+111,jb_112,Cognizant,Associate - Projects,"Chennai, Tamil Nadu, India (On-site)",cp_81,dt_112
+112,jb_113,Tata Consultancy Services,Salesforce Developer,"Hyderabad, Telangana, India (On-site)",cp_23,dt_113
+113,jb_114,iEnergizer,Customer Service Representative,"Noida, Uttar Pradesh, India (On-site)",cp_82,dt_114
+114,jb_115,LTIMindtree,O365 Admin,"Mumbai, Maharashtra, India (Hybrid)",cp_20,dt_115
+115,jb_116,Inteliwaves,Digital Marketing Executive,"Mumbai, Maharashtra, India (On-site)",cp_83,dt_116
+116,jb_117,Hexaware Technologies,Test Engineer,"Chennai, Tamil Nadu, India (Hybrid)",cp_64,dt_117
+117,jb_118,Virtusa,Python Developer,"Chennai, Tamil Nadu, India (Hybrid)",cp_84,dt_118
+118,jb_119,TÜV SÜD,DGM/GM- Business Development - International supply chain business,"Gurugram, Haryana, India (On-site)",cp_85,dt_119
+119,jb_120,Marsh McLennan,Quality Assurance Engineer,"Gurugram, Haryana, India (Hybrid)",cp_18,dt_120
+120,jb_121,Arm,Demand & Planning Analyst,"Bengaluru, Karnataka, India (Hybrid)",cp_86,dt_121
+121,jb_122,PW (PhysicsWallah),Floor Incharge,"Bengaluru, Karnataka, India (On-site)",cp_87,dt_122
+122,jb_123,Citi,"APAC ICG Operations, 2024 Full Time Analyst 3, India",Mumbai Metropolitan Region,cp_88,dt_123
+123,jb_124,Technip Energies,Walkin Drive 30 Mar 2024 - Technip Energies Gurugram,"Gurugram, Haryana, India (On-site)",cp_89,dt_124
+124,jb_125,Orange Business,Learning Practice Lead,"Gurugram, Haryana, India (On-site)",cp_90,dt_125
+125,jb_126,Capgemini Engineering,Mechanical Engineer,"Hyderabad, Telangana, India (Hybrid)",cp_91,dt_126
+126,jb_127,UNIVO Education,Engineering Manager - Full Stack,"Noida, Uttar Pradesh, India (On-site)",cp_92,dt_127
+127,jb_128,Tata Consultancy Services,JDE Finance Consultant,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_128
+128,jb_129,Tata Consultancy Services,Oracle Database Administrator,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_129
+129,jb_130,Infosys,AWS Admin and AWS Architect,"Bengaluru East, Karnataka, India (On-site)",cp_14,dt_130
+130,jb_131,Careernet,Database Administrator,"Bengaluru, Karnataka, India (On-site)",cp_45,dt_131
+131,jb_132,ANZ,Engineer,"Bengaluru, Karnataka, India",cp_93,dt_132
+132,jb_133,Regalix,Brand Specialist,"Bengaluru, Karnataka, India (On-site)",cp_94,dt_133
+133,jb_134,Navis,Software Engineer,"Chennai, Tamil Nadu, India (On-site)",cp_95,dt_134
+134,jb_135,Lowe's India,ITSM Analyst,"Bengaluru, Karnataka, India (On-site)",cp_96,dt_135
+135,jb_136,HT Digital Streams,QA Engineer (0-1 years) - Hindustan Times - Delhi (Hybrid),"Delhi, India (On-site)",cp_97,dt_136
+136,jb_137,HTC Global Services,Operation Analyst,"Gurugram, Haryana, India (On-site)",cp_38,dt_137
+137,jb_138,Hexaware Technologies,Cloud Engineer,"Chennai, Tamil Nadu, India (Hybrid)",cp_64,dt_138
+138,jb_139,Cognizant,Associate - Projects,"Chennai, Tamil Nadu, India (On-site)",cp_81,dt_139
+139,jb_140,airtel,Capex Planning Manager,"Gurugram, Haryana, India (On-site)",cp_98,dt_140
+140,jb_141,Saint-Gobain Technical Insulation,Mechanical Manager,"Mumbai, Maharashtra, India (On-site)",cp_99,dt_141
+141,jb_142,LTIMindtree,Storage Administrator,"Mumbai, Maharashtra, India (Hybrid)",cp_20,dt_142
+142,jb_143,Purplle.com,App Marketing Executive,"Bengaluru, Karnataka, India (Hybrid)",cp_100,dt_143
+143,jb_144,H&M,Merchandising Lead Retail,"Bengaluru, Karnataka, India (On-site)",cp_101,dt_144
+144,jb_145,Recmatrix Consulting,Entry Level Recruitment Consultant,"Bengaluru, Karnataka, India (Hybrid)",cp_102,dt_145
+145,jb_146,BlackRock,"Director, AI Platform Engineering","Gurgaon, Haryana, India (Hybrid)",cp_12,dt_146
+146,jb_147,KPMG India,Continuous Improvement || Business Consulting - Bangalore,"Bengaluru, Karnataka, India (On-site)",cp_103,dt_147
+147,jb_148,Hexaware Technologies,Test Manager - Data,"Chennai, Tamil Nadu, India (On-site)",cp_64,dt_148
+148,jb_149,Tata Consultancy Services,SAP Consultant,"Pune, Maharashtra, India (On-site)",cp_23,dt_149
+149,jb_150,T&N Business Services,Customer Service Representative,"Gurugram, Haryana, India (On-site)",cp_104,dt_150
+150,jb_151,Gleren Technologies,Azure DevOps Engineer - Mumbai (Hybrid),"Thane, Maharashtra, India (Hybrid)",cp_105,dt_151
+151,jb_152,Sercomm,Head of Supply Chain Management,"Chennai, Tamil Nadu, India (On-site)",cp_106,dt_152
+152,jb_153,Tata Consultancy Services,Oracle Database Administrator,"Hyderabad, Telangana, India (On-site)",cp_23,dt_153
+153,jb_154,Marsh McLennan,Oracle Database Administrator,"Gurugram, Haryana, India (Hybrid)",cp_18,dt_154
+154,jb_155,Schbang,Creative Lead (Copywriting),"Mumbai, Maharashtra, India (Hybrid)",cp_107,dt_155
+155,jb_156,Wipro,Business Analyst,"Bengaluru, Karnataka, India (On-site)",cp_47,dt_156
+156,jb_157,Capgemini,GE Proficy Consultant,"Pune, Maharashtra, India (On-site)",cp_108,dt_157
+157,jb_158,DXFactor,Business Analyst,"Ahmedabad, Gujarat, India (On-site)",cp_109,dt_158
+158,jb_159,Cummins India,Product Analyst,"Pune, Maharashtra, India (On-site)",cp_110,dt_159
+159,jb_160,Infosys,AWS Admin And AWS Architect,"Trivandrum, Kerala, India (On-site)",cp_14,dt_160
+160,jb_161,Synchrony,"AVP, SOX Testing Lead (L10)","Hyderabad, Telangana, India",cp_111,dt_161
+161,jb_162,Delta Air Lines,Engineering Leader [T500-11089],"Bengaluru, Karnataka, India (On-site)",cp_13,dt_162
+162,jb_163,Tata Consultancy Services,Backup EMC Networker,"Indore, Madhya Pradesh, India (On-site)",cp_23,dt_163
+163,jb_164,Microsoft,Business Management,"Hyderabad, Telangana, India (Hybrid)",cp_112,dt_164
+164,jb_165,Novo Nordisk,Associate Director,"Bengaluru, Karnataka, India (On-site)",cp_113,dt_165
+165,jb_166,Purplle.com,Accounts Receivable Manager,"Mumbai, Maharashtra, India (On-site)",cp_100,dt_166
+166,jb_167,Tech Mahindra,Delivery Head - Data & Analytics (Energy & Utilities),"Bengaluru, Karnataka, India (Hybrid)",cp_114,dt_167
+167,jb_168,Tata Consultancy Services,TCS Hiring for Commvault L3 Backup Administrator_Hyderabad/Chennai,"Hyderabad, Telangana, India (On-site)",cp_23,dt_168
+168,jb_169,Godrej & Boyce Mfg. Co. Ltd.,Sales - Compressed Air Solutions,"Delhi, India (On-site)",cp_115,dt_169
+169,jb_170,LTIMindtree,Backup Administrator,"Bengaluru, Karnataka, India (On-site)",cp_20,dt_170
+170,jb_171,Great Learning,Content Writer,"Gurgaon Rural, Haryana, India (On-site)",cp_116,dt_171
+171,jb_172,Purplle.com,Senior Executive Human Resources,"Vijayawada, Andhra Pradesh, India (On-site)",cp_100,dt_172
+172,jb_173,Chakr Innovation,Power System Engineer,"Gurugram, Haryana, India (On-site)",cp_117,dt_173
+173,jb_174,H&M,Merchandise Manager (Divided),"Bengaluru, Karnataka, India (On-site)",cp_101,dt_174
+174,jb_175,BluSmart,"Head of Environment, Health, and Safety","Gurugram, Haryana, India (On-site)",cp_72,dt_175
+175,jb_176,Unicommerce,Lead DevOps Engineer,"Gurugram, Haryana, India (On-site)",cp_118,dt_176
+176,jb_177,Tata Consultancy Services,SAP Basis Hana,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_177
+177,jb_178,Infosys,Contract Manager/Senior Contract Manager,"Bengaluru, Karnataka, India (On-site)",cp_14,dt_178
+178,jb_179,Lowe's India,Sr Product Manager_Martech Modernization,"Bengaluru, Karnataka, India (On-site)",cp_96,dt_179
+179,jb_180,Meril,Sr Simulation Engineer - Casting,"Vapi, Gujarat, India (On-site)",cp_119,dt_180
+180,jb_181,Havas Media Network,Offline Media Planner,"Gurugram, Haryana, India (On-site)",cp_120,dt_181
+181,jb_182,EXL,Data Scientist,"Hyderabad, Telangana, India (On-site)",cp_121,dt_182
+182,jb_183,Redrob by McKinley Rice,.NET Fullstack Developer,"Thane, Maharashtra, India (On-site)",cp_67,dt_183
+183,jb_184,Tata Consultancy Services,Business Intelligence Architect,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_184
+184,jb_185,Milliman,DB Associate Trainee,"Gurgaon, Haryana, India (On-site)",cp_122,dt_185
+185,jb_186,EY,OPERATIONS-ASSISTANT MANAGER,"Chennai, Tamil Nadu, India (On-site)",cp_123,dt_186
+186,jb_187,TEKsystems,Windchill Developer,"Pune, Maharashtra, India (On-site)",cp_124,dt_187
+187,jb_188,Tata Consultancy Services,Sap Materials Management Consultant,"Hyderabad, Telangana, India (On-site)",cp_23,dt_188
+188,jb_189,Quick Heal,C++ Architect,"Pune, Maharashtra, India (On-site)",cp_125,dt_189
+189,jb_190,Jupiter,Senior Product Manager - LMS,"Bangalore Urban, Karnataka, India (On-site)",#N/A,dt_190
+190,jb_191,3M,Cloud Engineering Manager [T500-11057],"Bengaluru, Karnataka, India (On-site)",cp_127,dt_191
+191,jb_192,LTIMindtree,Major Incident Manager,"Hyderabad, Telangana, India (Hybrid)",cp_20,dt_192
+192,jb_193,Unacademy,Business Development Executive,"Pune, Maharashtra, India (On-site)",cp_128,dt_193
+193,jb_194,Tata Consultancy Services,SAP Success Factor,India (Remote),cp_23,dt_194
+194,jb_195,Lockton,Corporate Operations Manager,"Mumbai, Maharashtra, India (On-site)",cp_129,dt_195
+195,jb_196,Teach For India,"Manager, Applicant Experience & Operations","Bengaluru, Karnataka, India (On-site)",cp_130,dt_196
+196,jb_197,BlackRock,Director and Head of Finance Data Strategy and Process Transformation,Mumbai Metropolitan Region (Hybrid),cp_12,dt_197
+197,jb_198,Shell,Machine Vision Researcher,"Bengaluru, Karnataka, India (On-site)",cp_131,dt_198
+198,jb_199,GE Vernova,Industry Growth Leader,"Pallavaram, Tamil Nadu, India",cp_132,dt_199
+199,jb_200,Tata Consultancy Services,Linux Administrator,"Indore, Madhya Pradesh, India (On-site)",cp_23,dt_200
+200,jb_201,Airtel Digital,Digital Architect - Data & UCM,"Gurugram, Haryana, India (On-site)",cp_133,dt_201
+201,jb_202,Ecolab Digital Center,Software Engineer,"Bengaluru, Karnataka, India (Hybrid)",cp_134,dt_202
+202,jb_203,Tata Consultancy Services,M365 Admin,"Kolkata, West Bengal, India (On-site)",cp_23,dt_203
+203,jb_204,Infor,Business Development Representative,"Hyderabad, Telangana, India (On-site)",cp_135,dt_204
+204,jb_205,LTIMindtree,Solution Architect (Azure cloud infra),"Bengaluru, Karnataka, India (On-site)",cp_20,dt_205
+205,jb_206,Applicantz,Data Engineer,"Bengaluru, Karnataka, India (On-site)",cp_136,dt_206
+206,jb_207,S&P Global,QA Analyst,"Hyderabad, Telangana, India (On-site)",cp_74,dt_207
+207,jb_208,Tata Consultancy Services,Linux SME,"Pune, Maharashtra, India (On-site)",cp_23,dt_208
+208,jb_209,Ami Lifesciences Pvt. Ltd.,Marketing Executive,"Mumbai, Maharashtra, India (On-site)",cp_137,dt_209
+209,jb_210,Alp Consulting Ltd.,java developer,"Bengaluru, Karnataka, India (On-site)",cp_50,dt_210
+210,jb_211,Wipro,Analyst,"Gurugram, Haryana, India (On-site)",cp_47,dt_211
+211,jb_212,Urban Company,Senior Category Manager,"Hyderabad, Telangana, India (On-site)",cp_138,dt_212
+212,jb_213,HTC Global Services,Azure Data Engineer,India (Remote),cp_38,dt_213
+213,jb_214,Advarra,Research Associate I,"Bengaluru, Karnataka, India (On-site)",cp_139,dt_214
+214,jb_215,Housr,Senior Content Writer,"Gurugram, Haryana, India (On-site)",cp_140,dt_215
+215,jb_216,Infosys,Java Selenium Automation Testing Engineer,"Bengaluru East, Karnataka, India (On-site)",cp_14,dt_216
+216,jb_217,Novo Nordisk,Department Coordinator,"Bengaluru, Karnataka, India (On-site)",cp_113,dt_217
+217,jb_218,Marsh McLennan,Automation Engineer,"Noida, Uttar Pradesh, India (Hybrid)",cp_18,dt_218
+218,jb_219,PTC,Software Consultant,"Pune, Maharashtra, India (Remote)",cp_141,dt_219
+219,jb_220,HCLTech,HCL HIRING FOR FRESHERS - For International Non-Voice Process on- 28- Mar-24 to 29 -MAR -24 (Hot vacancy),"Chennai, Tamil Nadu, India (On-site)",cp_142,dt_220
+220,jb_221,LTIMindtree,Immediate hiring for Tableau and Alteryx Admin,"Hyderabad, Telangana, India (Hybrid)",cp_20,dt_221
+221,jb_222,Happiest Minds Technologies,Group Head,"Bangalore Urban, Karnataka, India (On-site)",cp_36,dt_222
+222,jb_223,WNS,Contract Employee,Mumbai Metropolitan Region (On-site),cp_44,dt_223
+223,jb_224,Goldman Sachs,"Global Banking & Markets, FICC Commodities Strats, Bengaluru, Associate, Quantitative Engineering","Bengaluru, Karnataka, India",cp_143,dt_224
+224,jb_225,EMotorad,Administrative Executive,"Bengaluru, Karnataka, India (On-site)",cp_144,dt_225
+225,jb_226,RADIANT,Infrastructure/PPP/HAM Expert,"Srinagar, Jammu & Kashmir, India (On-site)",cp_2,dt_226
+226,jb_227,Genpact,Oracle Cloud SCM Planning Consultant,"Bengaluru, Karnataka, India (Hybrid)",cp_55,dt_227
+227,jb_228,Sony India Software Centre,Group Lead - Microsoft Dynamics (Techno Functional),"Bengaluru, Karnataka, India (On-site)",cp_25,dt_228
+228,jb_229,MRI Software,Azure Data Engineer,"Bengaluru, Karnataka, India (On-site)",cp_145,dt_229
+229,jb_230,Intel Corporation,Graduate Intern Technical,"Bengaluru, Karnataka, India (Hybrid)",cp_146,dt_230
+230,jb_231,Truelancer.com,Node+AWS Developer,Greater Bengaluru Area (Hybrid),cp_147,dt_231
+231,jb_232,KnowledgeWorks Global Ltd.,Senior DevOps Engineer,Mumbai Metropolitan Region (Hybrid),cp_148,dt_232
+232,jb_233,WN Infotech,Data Scientist,"Itanagar, Arunachal Pradesh, India (Hybrid)",cp_149,dt_233
+233,jb_234,DataE2E Technologies,Azure Data Engineer,"Maharashtra, India (Remote)",cp_150,dt_234
+234,jb_235,Inteliwaves,SAP FICO,"Mumbai, Maharashtra, India (On-site)",cp_83,dt_235
+235,jb_236,Synchrony,AVP – Sys Admin & Solution Architect (L10),"Hyderabad, Telangana, India",cp_111,dt_236
+236,jb_237,Embee Software Pvt. Ltd.,Cloud Engineer-Azure L2+ - Noida/Kolkata (Early joiners & Localites preferred),"Noida, Uttar Pradesh, India (On-site)",cp_151,dt_237
+237,jb_238,Careernet,Software Engineer,"Bengaluru, Karnataka, India (On-site)",cp_45,dt_238
+238,jb_239,slice,Compliance Manager,"Bengaluru, Karnataka, India (On-site)",cp_152,dt_239
+239,jb_240,Tata Consultancy Services,Windows Administrator_Indore(IN -Person Drive),"Indore, Madhya Pradesh, India (On-site)",cp_23,dt_240
+240,jb_241,H&M,Merchandising Lead Digital,"Bengaluru, Karnataka, India (On-site)",cp_101,dt_241
+241,jb_242,Tata Consultancy Services,Site Reliability Engineer,"Pune, Maharashtra, India (On-site)",cp_23,dt_242
+242,jb_243,Genpact,Manager,"Hyderabad, Telangana, India (On-site)",cp_55,dt_243
+243,jb_244,Tata Consultancy Services,Azure Devops Engineer,"Hyderabad, Telangana, India (On-site)",cp_23,dt_244
+244,jb_245,ZARA SA,Visual Merchandiser,"Jaipur, Rajasthan, India (On-site)",cp_153,dt_245
+245,jb_246,SLB,Product Regulatory Compliance,"Pune, Maharashtra, India (On-site)",cp_154,dt_246
+246,jb_247,Allianz Partners,Claim Coordinator,"Gurgaon, Haryana, India (On-site)",cp_65,dt_247
+247,jb_248,LTIMindtree,Cloud Architect,"Bengaluru, Karnataka, India (Hybrid)",cp_20,dt_248
+248,jb_249,IKEA,Unit IKEA Key Account Manager,"Hyderabad, Telangana, India (On-site)",cp_155,dt_249
+249,jb_250,Gestamp,Facilities Manager,"Pune, Maharashtra, India (On-site)",cp_156,dt_250
+250,jb_251,PeopleLogic,Network Security Engineer,"Mumbai, Maharashtra, India (On-site)",cp_157,dt_251
+251,jb_252,Tata Consultancy Services,DevOps Engineer,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_252
+252,jb_253,Thomson Reuters,Application Support Analyst,"Bengaluru, Karnataka, India (Hybrid)",cp_158,dt_253
+253,jb_254,Infosys,Business Development Executive,"Hyderabad, Telangana, India (On-site)",cp_14,dt_254
+254,jb_255,Tata Consultancy Services,Java Support,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_255
+255,jb_256,Ford Motor Solutions,Urgent Vacancy for Airport Ground Staff,"Coimbatore, Tamil Nadu, India (On-site)",cp_159,dt_256
+256,jb_257,TELUS International AI Data Solutions,Internet Safety Evaluator - Telugu (IN) | Remote,"Bangalore Urban, Karnataka, India (Remote)",cp_160,dt_257
+257,jb_258,HP,Supply Chain Analyst,"Bengaluru, Karnataka, India",cp_161,dt_258
+258,jb_259,Airtel Payments Bank,Senior Software Development Engineer Test,"Gurugram, Haryana, India (On-site)",cp_162,dt_259
+259,jb_260,Atos,DATABASE ADMINISTRATOR,"Thiruporur, Tamil Nadu, India (Hybrid)",cp_53,dt_260
+260,jb_261,Tata Consultancy Services,Azure Cloud Solution Architect,"Hyderabad, Telangana, India (On-site)",cp_23,dt_261
+261,jb_262,Infosys Finacle,UI Developer Immediate joiners for Bangalore location only,"Bengaluru, Karnataka, India (Hybrid)",cp_163,dt_262
+262,jb_263,Tata Consultancy Services,Storage Administrator,"Delhi, India (On-site)",cp_23,dt_263
+263,jb_264,SMC Squared India,SAP ABAP Developer,"Bengaluru, Karnataka, India (Hybrid)",cp_164,dt_264
+264,jb_265,ManipalCigna Health Insurance Company Ltd.,Data Engineer,"Mumbai, Maharashtra, India (On-site)",cp_165,dt_265
+265,jb_266,Tata Consultancy Services,Hadoop / Terradata Data Engieer-consultant,"Chennai, Tamil Nadu, India (On-site)",cp_23,dt_266
+266,jb_267,Unisys,O365 Analyst,"Bengaluru, Karnataka, India (On-site)",cp_166,dt_267
+267,jb_268,Infosys,Linux Expert,"Bengaluru East, Karnataka, India (On-site)",cp_14,dt_268
+268,jb_269,Genpact,Associate-Order Management-ANA011097,"Bengaluru, Karnataka, India (On-site)",cp_55,dt_269
+269,jb_270,Hitachi Energy,Management Trainee - CSS Finance,"Bengaluru, Karnataka, India (On-site)",cp_68,dt_270
+270,jb_271,Deloitte,Director - Indirect Tax,"Mumbai, Maharashtra, India (On-site)",cp_58,dt_271
+271,jb_272,Genpact,Senior Manager - General Accounting,"Hyderabad, Telangana, India (On-site)",cp_55,dt_272
+272,jb_273,Syngene International Limited,Internal Assurance,"Bengaluru, Karnataka, India (On-site)",cp_167,dt_273
+273,jb_274,Volvo Group,Customs Compliance Manager India,"Bengaluru, Karnataka, India",cp_168,dt_274
+274,jb_275,GEP Worldwide,Project Lead - Data and Analytics,"Mumbai, Maharashtra, India (On-site)",cp_169,dt_275
+275,jb_276,Genpact,Process Developer- Technical Accouting!-INS023328,"Gurugram, Haryana, India (Hybrid)",cp_55,dt_276
+276,jb_277,Tech Mahindra,Pega CSSA,"Bengaluru, Karnataka, India (Hybrid)",cp_114,dt_277
+277,jb_278,Premier International,Data Engineer,"Hyderabad, Telangana, India (On-site)",cp_170,dt_278
+278,jb_279,SurveySparrow,Senior Information Security Engineer,"Chennai, Tamil Nadu, India (On-site)",cp_171,dt_279
+279,jb_280,Blenheim Chalcot India,Senior Software Engineer,"Mumbai, Maharashtra, India (On-site)",cp_172,dt_280
+280,jb_281,Tata Consultancy Services,Solutions Architect,"Hyderabad, Telangana, India (On-site)",cp_23,dt_281
+281,jb_282,OYO,AR (Invoice and reconciliation) Agent,"Gurugram, Haryana, India (On-site)",cp_173,dt_282
+282,jb_283,ROYALCHEMICALS,Office Administrator,"Rajkot, Gujarat, India (On-site)",cp_174,dt_283
+283,jb_284,Tata Consultancy Services,Azure Devops Engineer,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_284
+284,jb_285,JioSaavn,Senior Associate - Subscriptions,"Mumbai, Maharashtra, India (On-site)",cp_175,dt_285
+285,jb_286,Goldman Sachs,"Global Banking & Markets, CVA Technology, Bengaluru, Vice President, Software Engineering","Bengaluru, Karnataka, India",cp_143,dt_286
+286,jb_287,Isha Foundation,Creative Director (Media),"Coimbatore, Tamil Nadu, India (On-site)",cp_176,dt_287
+287,jb_288,Lepton Software,GIS Solution Implementation Expert,"Delhi, India (On-site)",cp_177,dt_288
+288,jb_289,NICE,DevOps Engineer,"Pune, Maharashtra, India (On-site)",cp_178,dt_289
+289,jb_290,Hilti India,Software Sales Representative,"Gurgaon, Haryana, India",cp_179,dt_290
+290,jb_291,Enphase Energy,Sr. Mechanical Engineer,"Bengaluru, Karnataka, India (On-site)",cp_180,dt_291
+291,jb_292,Curefit - house of cult,Retail Trainer,Greater Bengaluru Area (On-site),cp_181,dt_292
+292,jb_293,Applied Materials,Buyer,"Bengaluru, Karnataka, India (On-site)",cp_182,dt_293
+293,jb_294,Atlas Copco Group,Engineer - Product Management,"Pune, Maharashtra, India (Hybrid)",cp_183,dt_294
+294,jb_295,LTIMindtree,.Net Azure Technical Architect,"Maharashtra, India (On-site)",cp_20,dt_295
+295,jb_296,Tata Consultancy Services,STORAGE ADMIN,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_296
+296,jb_297,Wipro,React + Node,"Bengaluru, Karnataka, India (On-site)",cp_47,dt_297
+297,jb_298,LTIMindtree,Dotnet Developer,"Mumbai, Maharashtra, India (Hybrid)",cp_20,dt_298
+298,jb_299,Nayara Energy,Security Gate Manager - PP,"Khambhalia, Gujarat, India (On-site)",cp_184,dt_299
+299,jb_300,Syngenta,Research Executive Formulation Development,"Goa, Goa, India (On-site)",cp_185,dt_300
+300,jb_301,HTC Global Services,Content Developer,"Bengaluru, Karnataka, India (Hybrid)",cp_38,dt_301
+301,jb_302,STEAG Energy Services (India) Pvt. Ltd,Power System Engineer,"Noida, Uttar Pradesh, India (On-site)",cp_186,dt_302
+302,jb_303,Lowe's India,Lead Software Engineer,"Bengaluru, Karnataka, India (On-site)",cp_96,dt_303
+303,jb_304,Genpact,Lead Consultant - Oracle SCM,"Hyderabad, Telangana, India (Hybrid)",cp_55,dt_304
+304,jb_305,Anblicks,Data Analytics,"Hyderabad, Telangana, India (On-site)",cp_187,dt_305
+305,jb_306,HCLTech,"HCL Tech - Fresher Voice - Banking - 29th & 30th Mar, 2024","Chennai, Tamil Nadu, India (On-site)",cp_142,dt_306
+306,jb_307,Tata Consultancy Services,Database Administrator Hana,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_307
+307,jb_308,Meine Kuche (I) Pvt. Ltd.,Business Development Executive,"Pune, Maharashtra, India (On-site)",cp_188,dt_308
+308,jb_309,HARMAN India,RTL Engineer,"Bengaluru, Karnataka, India (Hybrid)",cp_76,dt_309
+309,jb_310,Hitachi Energy,Operational/Strategic Procurement Specialist,"Bengaluru, Karnataka, India (On-site)",cp_68,dt_310
+310,jb_311,Intozi,Python Developer,"Gurugram, Haryana, India (On-site)",cp_189,dt_311
+311,jb_312,InfoVision Inc.,Azure full Stack Engineer,"Pune, Maharashtra, India (On-site)",cp_190,dt_312
+312,jb_313,Firstsource,Quality Assurance Manager,"Chennai, Tamil Nadu, India (On-site)",cp_191,dt_313
+313,jb_314,S&P Global,QA Analyst,"Hyderabad, Telangana, India (On-site)",cp_74,dt_314
+314,jb_315,Dun & Bradstreet Technology and Corporate Services India LLP,Data Engineer,"Hyderabad, Telangana, India (Hybrid)",cp_192,dt_315
+315,jb_316,Mobileum,Solution Architect (Telecom),"Bengaluru, Karnataka, India (Hybrid)",cp_193,dt_316
+316,jb_317,Dover India,Design Engineer,"Bengaluru, Karnataka, India (On-site)",cp_194,dt_317
+317,jb_318,Expert Global Group,Design Engineer,"Pune, Maharashtra, India (On-site)",cp_195,dt_318
+318,jb_319,Careerfit.ai,Cloud Engineer,"Mumbai, Maharashtra, India (On-site)",cp_196,dt_319
+319,jb_320,Restroworks,Salesforce Administrator,"New Delhi, Delhi, India (On-site)",cp_197,dt_320
+320,jb_321,PloPdo,Business Development Executive,"Noida, Uttar Pradesh, India (On-site)",cp_198,dt_321
+321,jb_322,Tata Technologies,Solutions Developer,Pune/Pimpri-Chinchwad Area (On-site),cp_199,dt_322
+322,jb_323,BlackRock,Vice President - Lead Performance Engineer,Mumbai Metropolitan Region (Hybrid),cp_12,dt_323
+323,jb_324,LTIMindtree,Senior Legal Associate,"Bengaluru, Karnataka, India (On-site)",cp_20,dt_324
+324,jb_325,Allianz Partners,Claim Coordinator,"Gurgaon, Haryana, India (On-site)",cp_65,dt_325
+325,jb_326,Capgemini,Hydrogen SME,"Bengaluru, Karnataka, India (On-site)",cp_108,dt_326
+326,jb_327,Tata Consultancy Services,Cisco Meraki_Delhi,"Delhi, India (On-site)",cp_23,dt_327
+327,jb_328,SurveySparrow,Content Marketing Specialist,"Chennai, Tamil Nadu, India (On-site)",cp_171,dt_328
+328,jb_329,Advantmed India LLP,Information Security Manager,"Ahmedabad, Gujarat, India (On-site)",cp_200,dt_329
+329,jb_330,Wipro,Associate,Greater Kolkata Area (On-site),cp_47,dt_330
+330,jb_331,Kotak Mahindra Bank,Relationship Manager Private Equity,"Bengaluru, Karnataka, India (On-site)",cp_201,dt_331
+331,jb_332,Airtel Business,Voice Account Manager,"Chennai, Tamil Nadu, India (On-site)",cp_202,dt_332
+332,jb_333,Fint Solutions,Power BI Developer,"Hyderabad, Telangana, India (Hybrid)",cp_203,dt_333
+333,jb_334,Mirchi,Radio Jockey,"Bhopal, Madhya Pradesh, India (On-site)",cp_204,dt_334
+334,jb_335,airtel,FA SME,"Gurugram, Haryana, India (On-site)",cp_98,dt_335
+335,jb_336,Lowe's India,Lead Software Engineer,"Bengaluru, Karnataka, India (On-site)",cp_96,dt_336
+336,jb_337,Genpact,Senior Manager - Sourcing Execution-HMS046197,"Bengaluru, Karnataka, India (On-site)",cp_55,dt_337
+337,jb_338,Ankyah Infinity Pvt. Ltd.,DevOps Engineer,"Pune, Maharashtra, India (On-site)",cp_205,dt_338
+338,jb_339,Tata Elxsi,C Linux STB (Set Top Box) Developer,"Bengaluru, Karnataka, India (On-site)",cp_60,dt_339
+339,jb_340,Boeing,Associate Programmer Analyst Java Full Stack Developer,"Bengaluru, Karnataka, India (On-site)",cp_206,dt_340
+340,jb_341,Thiess,Senior Mining Engineer,"Gurugram, Haryana, India (On-site)",cp_207,dt_341
+341,jb_342,Lennox India Technology Centre,SAP ABAP Developer,"Chennai, Tamil Nadu, India (On-site)",cp_208,dt_342
+342,jb_343,WNS,REF29565W-Desktop support ( end user support ) - Vizag only 3 yrs exp Sr Prog Analyst - EIT,"Visakhapatnam Rural mandal, India (On-site)",cp_44,dt_343
+343,jb_344,Wipro,Design Engineer,"Bengaluru, Karnataka, India (On-site)",cp_47,dt_344
+344,jb_345,Tata Consultancy Services,GCP Data Engineer,"Delhi, India (On-site)",cp_23,dt_345
+345,jb_346,NetApp,"Customer Success Engineer,","Bengaluru, Karnataka, India",cp_209,dt_346
+346,jb_347,Atlas Copco Group,Project Engineer - Project Management (Product Company),"Pune, Maharashtra, India (Hybrid)",cp_183,dt_347
+347,jb_348,Qrata,Sales Associate or business development,"Bengaluru, Karnataka, India (On-site)",cp_210,dt_348
+348,jb_349,Fractal,AWS Data Architect,"Mumbai, Maharashtra, India (Hybrid)",cp_211,dt_349
+349,jb_350,Schbang,Jr. Content Writer,"Mumbai, Maharashtra, India (On-site)",cp_107,dt_350
+350,jb_351,SurveySparrow,Business Development Specialist,"Chennai, Tamil Nadu, India (On-site)",cp_171,dt_351
+351,jb_352,Flowserve Corporation,Applications Engineer - Associate-Projects,"Bengaluru East, Karnataka, India (On-site)",cp_212,dt_352
+352,jb_353,Games24x7,Marketing Manager,"Bengaluru, Karnataka, India (On-site)",cp_213,dt_353
+353,jb_354,Birlasoft,Technical Specialist,Greater Hyderabad Area (Hybrid),cp_8,dt_354
+354,jb_355,Dover India,Lead Engineering Excellence,"Bengaluru, Karnataka, India (On-site)",cp_194,dt_355
+355,jb_356,Accenture in India,Health Operations New Associate,"Chennai, Tamil Nadu, India (On-site)",cp_214,dt_356
+356,jb_357,Sanofi,Analyst - Data Management,"Hyderabad, Telangana, India (On-site)",cp_215,dt_357
+357,jb_358,Sanofi,Analyst - Data Management,"Hyderabad, Telangana, India (On-site)",cp_215,dt_358
+358,jb_359,Sanofi,Analyst - Data Management,"Hyderabad, Telangana, India (On-site)",cp_215,dt_359
+359,jb_360,Sanofi,Analyst - Data Management,"Hyderabad, Telangana, India (On-site)",cp_215,dt_360
+360,jb_361,bytecitadel,Data Specialist,"Ahmedabad, Gujarat, India (On-site)",cp_216,dt_361
+361,jb_362,Synechron,Technical Business Analyst,"Pune, Maharashtra, India (On-site)",cp_217,dt_362
+362,jb_363,Broadcom,Cloud Systems Engineer,"Bengaluru, Karnataka, India (On-site)",cp_218,dt_363
+363,jb_364,UBS,Automation and AI - Tech Business Analyst,"Hyderabad, Telangana, India (On-site)",cp_219,dt_364
+364,jb_365,Hitachi Energy,Quality Engineer,"Vadodara, Gujarat, India (On-site)",cp_68,dt_365
+365,jb_366,Juniper Networks,Senior Data Engineer,"Bengaluru, Karnataka, India",cp_220,dt_366
+366,jb_367,Wipro,Active Directory,"Pune, Maharashtra, India (On-site)",cp_47,dt_367
+367,jb_368,Blenheim Chalcot India,AI Engineer,"Mumbai, Maharashtra, India (On-site)",cp_172,dt_368
+368,jb_369,Infosys BPM,Hiring MBA freshers for Insurance admin roles,"Mangaluru, Karnataka, India (On-site)",cp_19,dt_369
+369,jb_370,Network18 Media & Investments Limited,Multimedia Producer,"Mumbai, Maharashtra, India (On-site)",cp_221,dt_370
+370,jb_371,Wood Mackenzie,Senior Data Manager,"Gurugram, Haryana, India (On-site)",cp_222,dt_371
+371,jb_372,Airtel Business,Key Account Manager_Start Up,"Gurugram, Haryana, India (On-site)",cp_202,dt_372
+372,jb_373,Tata Elxsi,RF/ Microwave Design Experts,"Pune, Maharashtra, India (On-site)",cp_60,dt_373
+373,jb_374,Northern Trust,"Manager, Derivatives","Pune, Maharashtra, India (On-site)",cp_223,dt_374
+374,jb_375,GE Vernova,Construction Manager - Mechanical,"Chhattisgarh, India (Remote)",cp_132,dt_375
+375,jb_376,Wizertech Informatics Pvt. Ltd.,Oracle Database Administrator,"Bhubaneswar, Odisha, India (On-site)",#N/A,dt_376
+376,jb_377,Accenture in India,Health Operations New Associate,"Chennai, Tamil Nadu, India (On-site)",cp_214,dt_377
+377,jb_378,UST,GCP Data Engineer,"Pune, Maharashtra, India (Hybrid)",cp_224,dt_378
+378,jb_379,SurveySparrow,Salesforce AppExchange Developer,"Chennai, Tamil Nadu, India (On-site)",cp_171,dt_379
+379,jb_380,ITC Infotech,SAP Consultant,"Bengaluru, Karnataka, India (On-site)",cp_225,dt_380
+380,jb_381,Rently,IT Support Engineer,"Coimbatore, Tamil Nadu, India (On-site)",cp_226,dt_381
+381,jb_382,Astrosoft Technologies,AWS Data Engineer,"Hyderabad, Telangana, India (On-site)",cp_227,dt_382
+382,jb_383,Tata Consultancy Services,VMware Administrator,"Bengaluru, Karnataka, India (On-site)",cp_23,dt_383
+383,jb_384,Accenture in India,Health Operations New Associate,"Chennai, Tamil Nadu, India (On-site)",cp_214,dt_384
+384,jb_385,Accenture in India,Health Operations New Associate,"Chennai, Tamil Nadu, India (On-site)",cp_214,dt_385
+385,jb_386,Accenture in India,Health Operations New Associate,"Chennai, Tamil Nadu, India (On-site)",cp_214,dt_386
+386,jb_387,AB InBev GCC India,Senior Analyst - Treasury Controls,"Bengaluru, Karnataka, India (Hybrid)",cp_228,dt_387
+387,jb_388,The Timken Company,Quality,"Jamshedpur, Jharkhand, India (On-site)",cp_229,dt_388
+388,jb_389,Tata Technologies,CAE Analyst- Durability,"Pune, Maharashtra, India (On-site)",cp_199,dt_389
+389,jb_390,Google,"Site Reliability Engineer, Cloud Databases","Bengaluru, Karnataka, India (On-site)",cp_80,dt_390
+390,jb_391,Siemens Gamesa,Site Manager ( Pan India Position),"Chengalpattu, Tamil Nadu, India (On-site)",cp_230,dt_391
+391,jb_392,DIAGEO India,Senior Analyst,"Bengaluru, Karnataka, India (On-site)",cp_231,dt_392
+392,jb_393,Jubilant Generics Limited,Regional Sales Manager,"Mumbai, Maharashtra, India (On-site)",cp_232,dt_393
+393,jb_394,Cyfuture,Assistant Manager Administration,"Navi Mumbai, Maharashtra, India (On-site)",cp_233,dt_394
+394,jb_395,Unacademy,Academic Counselor,"Bikaner, Rajasthan, India (On-site)",cp_128,dt_395
+395,jb_396,Upstox,Software Development Engineer - III (Frontend),"Bangalore Urban, Karnataka, India (On-site)",cp_234,dt_396
+396,jb_397,Emerson,DCS HW Lead Engineer,"Nashik, Maharashtra, India (On-site)",cp_235,dt_397
+397,jb_398,Accenture in India,Health Operations New Associate,"Chennai, Tamil Nadu, India (On-site)",cp_214,dt_398
+398,jb_399,Birlasoft,Infor XA Consultant,"Mulshi, Maharashtra, India (On-site)",cp_8,dt_399
+399,jb_400,Silicon Valley Bank,Senior Analyst - Compliance Control,"Bangalore Urban, Karnataka, India (On-site)",cp_236,dt_400
